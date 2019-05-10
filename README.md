@@ -4,7 +4,11 @@ Copyright: Joseph J. Radler, 2019
 
 ## Development Notes
 The scope of this system configuration is currently restricted to setting up my
-personal MacOS Mojave machines for software development and scientific computing.
+personal MacOS Mojave machines for software development, data science, and
+scientific computing. Most of my work is done in Python3, but I dabble in Julia,
+Haskell, and Scala, so you will find some of those tools may be quickly installed
+here.
+
 If you like my sense of aesthetics, please feel free to set your system up using
 my defaults, but the main idea of this is to allow you to quickly and easily
 configure the various aspects of the system in a reproducible way to suit your
