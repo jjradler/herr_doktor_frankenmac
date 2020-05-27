@@ -1,0 +1,39 @@
+# Main Colors
+unrecognized_file: aquamarine
+recognized_file:   palegreen
+dir:               magenta
+
+# Link
+dead_link: magenta
+link:      greenyellow
+
+# Access Modes
+write:     gainsboro
+read:      limegreen
+exec:      magenta
+no_access: deeppink
+
+# Age
+day_old:     cyan
+hour_old:    lime
+no_modifier: silver
+
+# File Size
+file_large:  chartreuse
+file_medium: springgreen
+file_small:  mediumspringgreen
+
+# Random
+report: mintcream
+user:   paleturquoise
+tree:   cyan
+empty:  yellow
+error:  magenta
+normal: darkseagreen
+
+# Git
+addition:     dodgerblue
+modification: darkseagreen
+deletion:     magenta
+untracked:    gold
+unchanged:    gainsboro
